@@ -1,2 +1,3 @@
 # Smart-Stick-for-a-Blind-person
-We have developed a smart stick for the blind person which can be used to detect Obstacles
+We have developed a smart stick for the blind person which can be used to detect Obstacles.
+The Smart Alert System for a Blind Person is an innovative project aimed at improving the quality of life for visually impaired individuals. The system is designed to help a blind person navigate their environment with greater ease and safety. The core of the system is a stick that includes sensors and a microcontroller. The device is designed to detect obstacles in the user's path and provide feedback through vibration alerts. Overall, the Smart Alert System for a Blind Person is an innovative and practical solution for improving the lives of visually impaired individuals. By providing real-time information and alerts, the system enables blind people to navigate their environment with greater ease, safety, and independence.
